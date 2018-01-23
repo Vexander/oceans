@@ -1764,8 +1764,8 @@ body {
   background-image: url("../../../assets/images/background5.jpg");
 }
 .cid-qHyFstFODP {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #f3f4f6;
 }
 .cid-qHyFstFODP .testimonial-text {
@@ -1780,8 +1780,16 @@ body {
 .cid-qHyFstFODP .mbr-author-desc {
   color: #232;
 }
+.cid-qHyZIhWyJS {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qHyZIhWyJS .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-qHyFsuY9T1 {
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
 }
@@ -1819,6 +1827,14 @@ body {
   .cid-qHyFsuY9T1 .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-qHyZARB4Jz {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qHyZARB4Jz .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-qHyFswKYWC {
   padding-top: 90px;
