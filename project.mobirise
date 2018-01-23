@@ -515,7 +515,8 @@
               "text-align": "left"
             },
             "H1": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#cdd6d1"
             },
             "P": {
               "text-align": "left"
