@@ -3,7 +3,6 @@
 
 
 
-
 body {
   font-style: normal;
   line-height: 1.5;
@@ -20,7 +19,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Back to Black Demo';
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -1763,6 +1762,15 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background5.jpg");
 }
+.cid-qHyFsoIRgf H3 {
+  text-align: left;
+}
+.cid-qHyFsoIRgf H1 {
+  text-align: left;
+}
+.cid-qHyFsoIRgf P {
+  text-align: left;
+}
 .cid-qHyFstFODP {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1945,6 +1953,11 @@ body {
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-qHzKXMOo6b {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-qHyFsCgE6p {
   padding-top: 90px;
